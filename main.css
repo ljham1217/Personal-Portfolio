@@ -229,8 +229,12 @@ a.button1{
 
 /* Icons */
 
-.fa-bars, .fa-times, .fa-linkedin-in, .fa-github, .fa-envelope  {
+.fa-times, .fa-linkedin-in, .fa-github, .fa-envelope  {
     color: #fff;
+}
+
+.fa-bars {
+    color: lightgray;
 }
 
 .services-icon {
