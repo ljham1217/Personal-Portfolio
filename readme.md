@@ -1,6 +1,8 @@
 # Leah Hamilton Portfolio README
 My personal portfolio website
 
+Live site: https://ljham1217.github.io/Personal-Portfolio/
+
 ## Built With
 
 - HTML
