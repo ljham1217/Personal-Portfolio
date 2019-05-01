@@ -30,6 +30,20 @@ p, h3 {
     font-family: 'Fira Sans', sans-serif;
 }
 
+.portfolio-title{
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-decoration: none;
+    color: #396361;
+    margin-bottom: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    cursor: pointer;
+}
+
+.portfolio-title:hover {
+    color: #3FB0AC;
+}
+
 h4 {
     font-size: 1.5rem;
 }
@@ -38,7 +52,9 @@ h4 {
     width: 100%;
 }
 
-
+.techicons {
+    margin: 20px;
+}
 /*Mobile Header and Menu*/
 
 
@@ -464,6 +480,7 @@ section {
         text-decoration: none;
         color: #fff;
         justify-content: space-evenly;
+        font-size: .75rem;
     }
     
     .button {

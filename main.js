@@ -1,17 +1,5 @@
 'use strict'
 
-//toggle the menu and hamburger 
-/*function hideMenu () {
-    $(window).resize(function(){ 
-        if ($(window).width() > 768) {
-            $('.menu-desktop').show();
-            $('.menu-mobile').hide();
-        } else {
-            $('.desktop', '.menu-desktop').hide();
-            $('.menu-mobile').show();
-        }
-    }
-})*/
 
 function toggleIcon() {
     $('.icon').on('click', function(){
@@ -42,3 +30,4 @@ function desktopMenu() {
 $(toggleIcon);
 $(closeMobileMenu);
 $(desktopMenu);
+
