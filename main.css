@@ -172,7 +172,7 @@ section {
 }
 
 #intro-section {
-    background-image: url('Assets/patrick-bald-730896-unsplash.jpg');
+    background-image: url('Assets/patrick-bald-730896-compressed.jpg');
     box-shadow:inset 0 0 0 2000px rgba(63,176,172,0.5);
     background-repeat: no-repeat;
     background-size: cover;
